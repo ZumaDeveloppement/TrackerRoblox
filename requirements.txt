@@ -1,0 +1,2 @@
+# Tracker Roblox - cree par @Zuma
+rich>=13.0.0
